@@ -21,7 +21,7 @@ firebase.initializeApp({
     "https://kakowen-aw-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "kakowen-aw",
   storageBucket: "kakowen-aw.appspot.com",
-  messagingSenderId: "426780904890",
+  // messagingSenderId: "426780904890",
   appId: "1:426780904890:web:57f674c554f424440a6183",
   measurementId: "G-W2WRSTM5BJ",
 });
