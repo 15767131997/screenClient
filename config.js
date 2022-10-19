@@ -12,7 +12,7 @@ var config = {
   // 靜態資源更新週期時間，單位秒
   ASSETS_UPDATE_TIME: 600,
   // websocketUrl
-  WEBSOCKET_DOMAIN: "10.3.3.20:8556",
+  WEBSOCKET_DOMAIN: "10.3.2.111:8556",
   WS_USERNAME: "routeScreen",
   WS_PWD: "123456",
 };
